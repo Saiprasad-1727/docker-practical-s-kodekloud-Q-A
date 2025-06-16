@@ -1,8 +1,6 @@
 Docker basic commands
 
-## 1.
-
-**Question**
+##Question 1.
 
 What is the version of Docker Server Engine running on the Host?
 
