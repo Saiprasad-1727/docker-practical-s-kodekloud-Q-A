@@ -17,7 +17,7 @@ How many containers are running on this host?
 
 How many images are available on this host?
 
-      ocker images
+      docker images
       REPOSITORY                      TAG       IMAGE ID       CREATED         SIZE
       alpine                          latest    91ef0af61f39   9 months ago    7.79MB
       nginx                           alpine    c7b4f26a7d93   10 months ago   43.2MB
